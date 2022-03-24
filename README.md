@@ -15,4 +15,4 @@ A ideia permitir a geração de provas de forma automatica com base numa configu
 
 ## Abaixo podemos ver a imagem do modelo de banco de dados:
 
-![]ModeloSCTeacher.png />
+![](ModeloSCTeacher.png)
