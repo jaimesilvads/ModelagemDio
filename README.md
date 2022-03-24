@@ -18,3 +18,4 @@ a selecção das questões de forma randomica, com base na quantidade questões 
 
 Abaixo podemos ver a imagem do modelo de banco de dados:
 
+(ModeloSCTeacher.png)
