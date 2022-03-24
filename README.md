@@ -1,5 +1,5 @@
 # Modelagem do prototipo do banco dados SCTEACHER
-https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+<a>https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white</>
 
 ### Esse tabalho não se propoe a ser uma solução completa para resolver o problema.
 
