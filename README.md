@@ -1,4 +1,4 @@
-# Modelagem do protipo do banco dados SCTEACHER
+# Modelagem do prototipo do banco dados SCTEACHER
 
 ### Esse tabalho não se propoe a ser uma solução completa para resolver o problema.
 
@@ -16,3 +16,5 @@ A ideia permitir a geração de provas de forma automatica com base numa configu
 ## Abaixo podemos ver a imagem do modelo de banco de dados:
 
 ![](ModeloSCTeacher.png)
+
+[Script de creação da base de dados:] (ScriptCriacaoBancoSCTEACHER.sql)
