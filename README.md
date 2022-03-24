@@ -1,5 +1,5 @@
 # Modelagem do prototipo do banco dados SCTEACHER
-<a></a>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Badge em Desenvolvimento](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ### Esse tabalho não se propoe a ser uma solução completa para resolver o problema.
 
