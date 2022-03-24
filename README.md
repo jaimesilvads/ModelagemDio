@@ -1,6 +1,6 @@
 # Modelagem do prototipo do banco dados SCTEACHER
-<a>https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white</a>
-
+<a></a>
+![Badge em Desenvolvimento](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ### Esse tabalho não se propoe a ser uma solução completa para resolver o problema.
 
 ## Proposta de Problema a ser resolvido:
