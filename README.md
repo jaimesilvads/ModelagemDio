@@ -3,6 +3,7 @@
 ![Badge em Desenvolvimento](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ### Esse tabalho não se propoe a ser uma solução completa para resolver o problema.
 
+# Sobre o projeto
 ## Proposta de Problema a ser resolvido:
 
 A ideia permitir a geração de provas de forma automatica com base numa configuração previa, onde você informa a quantidade de questoues por assunto e discipplina. Permitindo ao sistema, ser capaz de segmentar a prova por Displina/Assunto, selecionando as questões de forma randomica com base na quantidade questões informada para cada prova, gerando uma prova diferente para cada aluno.
