@@ -19,4 +19,4 @@ O SCTEACHER permite a geração de provas de forma automatica com base numa conf
 
 ![](ModeloSCTeacher.png)
 
-![Sql](https://github.com/jaimesilvads/ModelagemDio/blob/main/ScriptCriacaoBancoSCTEACHER.sql)
+![Script de criação do Banco de dados](https://github.com/jaimesilvads/ModelagemDio/blob/main/ScriptCriacaoBancoSCTEACHER.sql)
