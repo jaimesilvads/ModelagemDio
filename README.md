@@ -1,6 +1,6 @@
 # Modelagem do prototipo do banco dados SCTEACHER
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jaimesilvads/ModelagemDio/blob/main/LICENSE)
-![Badge em Desenvolvimento](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&heigth=12).
+![Badge em Desenvolvimento](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&heigth=5).
 
 ### Esse tabalho não se propoe a ser uma solução completa para resolver o problema.
 
