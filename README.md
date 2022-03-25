@@ -9,7 +9,7 @@ Status do Projeto: Em desenvolvimento :warning:
 # Sobre o projeto
 
 
-<p align="justify">	O SCTEACHER é um banco de dados que vai amarzenar os dados que darão ao ao sistema que levará o mesmo nome o qual será capaz de gerar provas escolares de forma automatica, com base nas configuração previa da mesma, onde você informa a quantidade de questoues por assunto e discipplina dentre outras informações. Permitindo segmentar as questões por Displina e Assunto, selecionando as questões de forma randomica, com base na quantidade informada para cada prova, e gerando uma prova diferente para cada aluno.</p>
+<p align="justify">O SCTEACHER é um banco de dados que vai armazenar os dados que darão suporte ao  sistema que levará o mesmo nome, o qual será capaz de gerar provas escolares de forma automática, com base nas configurações previa da mesma, onde você informa a quantidade de questões por assunto e disciplina dentre outras informações. Permitindo segmentar as questões por Disciplina e Assunto, selecionando as questões de forma randômica, com base na quantidade informada para cada prova, e gerando uma prova diferente para cada aluno.</p>
 
 - ex: Disciplina - a Ciência foi configurada com questoes indo de e 1 a 4000 e esta subdividida em assunto :
 	1. Formação do universo de 1 a 200
