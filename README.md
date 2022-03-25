@@ -2,6 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jaimesilvads/ModelagemDio/blob/main/LICENSE)
 ![Badge em Desenvolvimento](https://img.shields.io/badge/MYSQL-DB-green)
 
+Status do Projeto: Em desenvolvimento :warning:
 
 ### Esse tabalho não se propoe a ser uma solução completa para resolver o problema.
 
